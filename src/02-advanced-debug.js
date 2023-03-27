@@ -1,3 +1,5 @@
+/* disable all to skip this code so as to build object ball functions
+
 console.log('Advanced debugging example running.')
 debugger
 
@@ -26,3 +28,5 @@ function goodPractices() {
 
 // then, call the function so it runs!
 goodPractices()
+
+*/
